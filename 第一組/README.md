@@ -18,8 +18,8 @@
     </td>
     <td>Lois</td>
     <td>Aya</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/YuqYjrh6SMiDY-maqGWqmg#/">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/12">Note</a></td>
   </tr>
   <tr>
     <td>2024/03/03</td>
