@@ -17,9 +17,9 @@
       2-3 Render React element (31)
     </td>
     <td>四季春(KuoMin)</td>
-    <td></td>
+    <td>nono</td>
     <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/11">Note</a></td>
   </tr>
   <tr>
     <td>2024/03/03</td>
