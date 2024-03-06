@@ -17,7 +17,7 @@
       2-3 Render React element (31)
     </td>
     <td>四季春(KuoMin)</td>
-    <td>nono</td>
+    <td>Nono</td>
     <td><a href="">Slide</a></td>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/11">Note</a></td>
   </tr>
@@ -28,9 +28,9 @@
       2-5 JSX 的語法規則脈絡與畫面渲染的實用技巧 (38)
     </td>
     <td>I Lun Lee</td>
-    <td></td>
+    <td>Andy</td>
     <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/14">Note</a></td>
   </tr>
   <tr>
     <td>2024/03/17</td>
@@ -38,8 +38,8 @@
       2-6 單向資料流與一律重繪渲染策略 </br>
       2-7 畫面組裝的藍圖：component 初探(55)
     </td>
-    <td>Ashley</td>
-    <td></td>
+    <td>粉粉(Phoebe)</td>
+    <td>Vera</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -49,8 +49,8 @@
       2-8 React 畫面更新的發動機：state 初探 </br>
       2-9 React 畫面更新的流程機制：reconciliation(30)
     </td>
-    <td>Nono Lin</td>
-    <td></td>
+    <td>Nono</td>
+    <td>粉粉(Phoebe)</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -60,8 +60,8 @@
       3-1 如何在子 component 裡觸發更新父 component 的資料 </br>
       3-2 深入理解 batch update 與 updater function(31)
     </td>
-    <td></td>
-    <td></td>
+    <td>Andy</td>
+    <td>四季春(KuoMin)</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -72,7 +72,7 @@
       3-4 Immutable update(30)
     </td>
     <td>Lia</td>
-    <td></td>
+    <td>I Lun Lee</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -84,7 +84,7 @@
       4-3 每次 render 都有自己的 props、state 與 event handler 函式(30)
     </td>
     <td>Cosmos</td>
-    <td></td>
+    <td>Lia</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -95,7 +95,7 @@
       5-2 useEffect 其實不是 function component 的生命週期 API(35)
     </td>
     <td>Ohtani</td>
-    <td></td>
+    <td>Jan</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -104,8 +104,8 @@
     <td>
       5-3 維護資料流的連動：不要欺騙 hooks 的 dependencies(29)
     </td>
-    <td></td>
-    <td></td>
+    <td>Vera</td>
+    <td>Isla</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -116,7 +116,7 @@
       5-5 副作用處理的常見情境設計技巧(31)
     </td>
     <td>Jan</td>
-    <td></td>
+    <td>Cosmos</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -126,8 +126,8 @@
     5-6 useCallback 與 useMemo 的正確使用時機 </br>
     5-7 Hooks 的運作原理與設計思維(16)
     </td>
-    <td>粉粉(Phoebe)</td>
-    <td></td>
+    <td>Isla</td>
+    <td>Ohtani</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
