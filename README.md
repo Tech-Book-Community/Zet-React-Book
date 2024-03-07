@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  書籍：[React 思維進化](https://www.tenlong.com.tw/products/9786263336841)
+  書籍：<a href="https://www.tenlong.com.tw/products/9786263336841">React 思維進化</a>
 </p>
 
 <div align="center">
