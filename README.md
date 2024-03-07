@@ -40,21 +40,57 @@
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/tree/main/%E7%AC%AC%E4%B8%80%E7%B5%84">一</a></td>
     <td>2024/2/18 ~ 2024/7/7</td>
     <td>雙週日晚上 8 點 ~ 10 點</td>
-    <td>LoisChen68</td>
-    <td>steven4program, Yo0, brownrice02, ba1679, hsuifang, Beginneraboutlife116, thewilliamzhu, showlovezz, ywcheng1207, Aya-X</td>
+    <td>
+      <a href="https://github.com/LoisChen68">Lois</a>
+    </td>
+    <td>
+      <a href="https://github.com/steven4program">Steven</a>,
+      <a href="https://github.com/Yo0GuitarIT">Yo0</a>,
+      <a href="https://github.com/brownrice02">玄米</a>,
+      <a href="https://github.com/ba1679">Lai</a>,
+      <a href="https://github.com/Beginneraboutlife116">Kai</a>,
+      <a href="https://github.com/thewilliamzhu">William</a>,
+      <a href="https://github.com/showlovezz">Vita</a>,
+      <a href="https://github.com/ywcheng1207">Willy</a>,
+      <a href="https://github.com/Aya-X">Aya</a>
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/tree/main/%E7%AC%AC%E4%BA%8C%E7%B5%84">二</a></td>
     <td>2024/2/21 ~ 2024/7/10</td>
     <td>雙週三晚上 8 點 ~ 10 點</td>
-    <td>HLTVProxy</td>
-    <td>linyawun, rochelwang1205, MiJouHsieh, robertyen2023, amelie314, cherylruei, steward379, judy152534, LJBL22, jiingler</td>
+    <td>
+      <a href="https://github.com/HLTVProxy">Sam</a>
+    </td>
+    <td>
+      <a href="https://github.com/linyawun">Monica</a>,
+      <a href="https://github.com/708kelly">1t</a>,
+      <a href="https://github.com/MiJouHsieh">Mi</a>,
+      <a href="https://github.com/robertyen2023">Robert</a>,
+      <a href="https://github.com/amelie314">Amelie</a>,
+      <a href="https://github.com/cherylruei">Cheryl</a>,
+      <a href="https://github.com/steward379">Steward</a>,
+      <a href="https://github.com/judy152534">Judy</a>,
+      <a href="https://github.com/LJBL22">LJBL</a>,
+      <a href="https://github.com/jiingler">PG</a>
   </tr>
   <tr>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/tree/main/%E7%AC%AC%E4%B8%89%E7%B5%84">三</a></td>
     <td>2024/2/18 ~ 2024/7/7</td>
     <td>雙週日下午 2 點 ~ 4 點</td>
-    <td>KuoMinKi</td>
-    <td>janlin002, Ashley, Lia, apple890493, hey-ilun, violet7755, siouyu, jolinhappy</td>
+    <td>
+      KuoMinKi
+    </td>
+    <td>
+      <a href="https://github.com/janlin002">Jan</a>,
+      Lia,
+      <a href="https://github.com/apple890493">Nono</a>,
+      <a href="https://github.com/itzuchen1215">Isla</a>,
+      <a href="https://github.com/hey-ilun">I LUN</a>,
+      <a href="https://github.com/violet7755">Cosmos</a>,
+      <a href="https://github.com/siouyu">Ohtani</a>,
+      <a href="https://github.com/jolinhappy">Phoebe</a>,
+      <a href="https://github.com/letmetellatale">Andy</a>,
+      <a href="https://github.com/jingxcc">Vera</a>
   </tr>
 </table>
