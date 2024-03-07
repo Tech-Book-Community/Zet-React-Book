@@ -18,7 +18,7 @@
     </td>
     <td>四季春(KuoMin)</td>
     <td>Nono</td>
-    <td><a href="">Slide</a></td>
+    <td><a href="https://hackmd.io/6UYtDpvwQnaQ313l5P3SGw">Slide</a></td>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/11">Note</a></td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@
     </td>
     <td>I Lun Lee</td>
     <td>Andy</td>
-    <td><a href="">Slide</a></td>
+    <td><a href="https://hackmd.io/Z2gFsMK8R5W_LUbUrinTJQ">Slide</a></td>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/14">Note</a></td>
   </tr>
   <tr>
