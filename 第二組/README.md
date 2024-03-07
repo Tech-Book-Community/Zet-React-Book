@@ -18,7 +18,7 @@
     </td>
     <td>Sam</td>
     <td></td>
-    <td><a href="https://hackmd.io/atRjpoNJQEONxfKq7gjP-Q?view">Slide</a></td>
+    <td><a href="https://hackmd.io/cWREnw9gSdKylPV2C022VA">Slide</a></td>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/13">Note</a></td>
   </tr>
   <tr>
