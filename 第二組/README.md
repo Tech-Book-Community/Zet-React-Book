@@ -18,8 +18,8 @@
     </td>
     <td>Sam</td>
     <td></td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/atRjpoNJQEONxfKq7gjP-Q?view">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/13">Note</a></td>
   </tr>
   <tr>
     <td>2024/03/06</td>
@@ -29,8 +29,8 @@
     </td>
     <td>Steward</td>
     <td></td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://www.slideshare.net/slideshows/jsx-jsxjsx-jsxjsx-jsxjsx-jsxjsx-jsxjsx-jsx/266656782">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/15">Note</a></td>
   </tr>
   <tr>
     <td>2024/03/20</td>
