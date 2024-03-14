@@ -30,7 +30,7 @@
     <td>玄米</td>
     <td>William</td>
     <td><a href="https://docs.google.com/presentation/d/1Ad6zmtKFbI-DczCELsPEUJTwQ4n_8pONqVmsXitWKWk">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/16">Note</a></td>
   </tr>
   <tr>
     <td>2024/03/17</td>
