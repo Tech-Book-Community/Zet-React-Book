@@ -17,7 +17,7 @@
       2-3 Render React element (31)
     </td>
     <td>Sam</td>
-    <td></td>
+    <td>Monica</td>
     <td><a href="https://hackmd.io/cWREnw9gSdKylPV2C022VA">Slide</a></td>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/13">Note</a></td>
   </tr>
@@ -28,7 +28,7 @@
       2-5 JSX 的語法規則脈絡與畫面渲染的實用技巧 (38)
     </td>
     <td>Steward</td>
-    <td></td>
+    <td>Sam</td>
     <td><a href="https://www.slideshare.net/slideshows/jsx-jsxjsx-jsxjsx-jsxjsx-jsxjsx-jsxjsx-jsx/266656782">Slide</a></td>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/15">Note</a></td>
   </tr>
@@ -39,7 +39,7 @@
       2-7 畫面組裝的藍圖：component 初探(55)
     </td>
     <td>Judy</td>
-    <td></td>
+    <td>Robert</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -49,8 +49,8 @@
       2-8 React 畫面更新的發動機：state 初探 </br>
       2-9 React 畫面更新的流程機制：reconciliation(30)
     </td>
-    <td>PG</td>
-    <td></td>
+    <td>Monica</td>
+    <td>1t</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -61,7 +61,7 @@
       3-2 深入理解 batch update 與 updater function(31)
     </td>
     <td>Robert</td>
-    <td></td>
+    <td>Cheryl</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -71,8 +71,8 @@
       3-3 維持 React 資料流可靠性的重要關鍵：immutable state </br>
       3-4 Immutable update(30)
     </td>
-    <td>Rochel</td>
-    <td></td>
+    <td>1t</td>
+    <td>Judy</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -84,7 +84,7 @@
       4-3 每次 render 都有自己的 props、state 與 event handler 函式(30)
     </td>
     <td>LJBL</td>
-    <td></td>
+    <td>PG</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -95,7 +95,7 @@
       5-2 useEffect 其實不是 function component 的生命週期 API(35)
     </td>
     <td>Cheryl</td>
-    <td></td>
+    <td>Mi</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -105,7 +105,7 @@
       5-3 維護資料流的連動：不要欺騙 hooks 的 dependencies(29)
     </td>
     <td>Mi</td>
-    <td></td>
+    <td>LJBL</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -115,8 +115,8 @@
       5-4 React 18 的 effect 函式在 mount 時為何會執行兩次？ </br>
       5-5 副作用處理的常見情境設計技巧(31)
     </td>
-    <td>Monica</td>
-    <td></td>
+    <td>PG</td>
+    <td>Amelie</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
@@ -127,7 +127,7 @@
     5-7 Hooks 的運作原理與設計思維(16)
     </td>
     <td>Amelie</td>
-    <td></td>
+    <td>Steward</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
