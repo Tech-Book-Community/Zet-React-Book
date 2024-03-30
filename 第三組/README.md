@@ -40,8 +40,8 @@
     </td>
     <td>粉粉(Phoebe)</td>
     <td>Vera</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/@pinkymini/S1tYH5bTa#/">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/18">Note</a></td>
   </tr>
   <tr>
     <td>2024/03/31</td>
