@@ -41,7 +41,7 @@
     <td>Aya</td>
     <td>Lois</td>
     <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/17">Note</a></td>
   </tr>
   <tr>
     <td>2024/03/31</td>
@@ -51,8 +51,8 @@
     </td>
     <td>Steven</td>
     <td>Yo0</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/@stevenchang421/B1QCgIUk0">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/22">Note</a></td>
   </tr>
   <tr>
     <td>2024/04/14</td>
