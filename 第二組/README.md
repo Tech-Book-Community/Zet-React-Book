@@ -40,8 +40,8 @@
     </td>
     <td>Judy</td>
     <td>Robert</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://gamma.app/docs/-25vpjd4aqjjo9r4?mode=present#card-pfx6e9xxc9q4k3v">Slide</a></td>
+    <td><a href="https://hackmd.io/vrnoZlCMSOKsod7XFi0FFQ">Note</a></td>
   </tr>
   <tr>
     <td>2024/04/03</td>
