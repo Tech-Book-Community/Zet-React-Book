@@ -62,8 +62,8 @@
     </td>
     <td>Robert</td>
     <td>Cheryl</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1o7d0Ovj31_Si0QTHgICi54k27rJsxQysEo8dHtt31qE/edit#slide=id.p">Slide</a></td>
+    <td><a href="https://hackmd.io/dKKm7nElTP256bAUUPKDgA">Note</a></td>
   </tr>
   <tr>
     <td>2024/05/01</td>
