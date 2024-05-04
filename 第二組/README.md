@@ -73,8 +73,8 @@
     </td>
     <td>1t</td>
     <td>Judy</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://drive.google.com/file/d/1_tN0dfkuybOQJHfBZlWeAPVmZdrrui04/view">Slide</a></td>
+    <td><a href="https://hackmd.io/PfqB3I3IRo-zEiPEavak-w?edit">Note</a></td>
   </tr>
   <tr>
     <td>2024/05/15</td>
