@@ -62,7 +62,7 @@
     </td>
     <td>William</td>
     <td>Steven</td>
-    <td><a href="">Slide</a></td>
+    <td><a href="https://gamma.app/docs/React-3-1-3-2-lzmmxy2uwpvhzdz">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
   <tr>
