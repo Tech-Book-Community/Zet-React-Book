@@ -51,8 +51,8 @@
     </td>
     <td>Nono</td>
     <td>粉粉(Phoebe)</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/yI1c08MiRhWSNr457tdAyw?view#/">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/20">Note</a></td>
   </tr>
   <tr>
     <td>2024/04/14</td>
@@ -62,8 +62,8 @@
     </td>
     <td>Andy</td>
     <td>四季春(KuoMin)</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1uWXf_cychV9AqN0z3fvcc33A9c_ht4s3/edit#slide=id.p1">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/24">Note</a></td>
   </tr>
   <tr>
     <td>2024/04/28</td>
@@ -73,8 +73,8 @@
     </td>
     <td>Lia</td>
     <td>I Lun Lee</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/HSykGqE-SH6pgGXIbcSUcQ?both">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/28">Note</a></td>
   </tr>
   <tr>
     <td>2024/05/12</td>
