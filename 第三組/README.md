@@ -85,7 +85,7 @@
     </td>
     <td>Cosmos</td>
     <td>Lia</td>
-    <td><a href="https://docs.google.com/presentation/d/1-Qjit2Qjo3ffKXPWI8e6uv-FefWDW5dAT3uYl9vY46s/edit#slide=id.g2710f8a2103_0_272">Slide</a></td>
+    <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
   <tr>
