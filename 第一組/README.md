@@ -73,7 +73,7 @@
     </td>
     <td>Evonne</td>
     <td>玄米</td>
-    <td><a href="">Slide</a></td>
+    <td><a href="https://drive.google.com/file/d/18bSkZBUfCKgAHim7kXcmrq_Wwfnt1zgS/view?usp=sharing">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@
       4-3 每次 render 都有自己的 props、state 與 event handler 函式(30)
     </td>
     <td>Kai</td>
-    <td>Lai</td>
+    <td>Evonne</td>
     <td><a href="https://docs.google.com/presentation/d/1-Qjit2Qjo3ffKXPWI8e6uv-FefWDW5dAT3uYl9vY46s/edit#slide=id.g2710f8a2103_0_272">Slide</a></td>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/32">Note</a></td>
   </tr>
@@ -116,7 +116,7 @@
       5-5 副作用處理的常見情境設計技巧(31)
     </td>
     <td>Willy</td>
-    <td>Evonne</td>
+    <td>Lai</td>
     <td><a href="">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
