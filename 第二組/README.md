@@ -84,9 +84,9 @@
       4-3 每次 render 都有自己的 props、state 與 event handler 函式(30)
     </td>
     <td>LJBL</td>
-    <td>PG</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td>Sam</td>
+    <td><a href="https://hackmd.io/@VXN3PU0MQfqWfVau-uHOig/HJgo4gAz0#/">Slide</a></td>
+    <td><a href="https://hackmd.io/LHPV6R_OQTKnhRNqxOri-Q">Note</a></td>
   </tr>
   <tr>
     <td>2024/05/29</td>
