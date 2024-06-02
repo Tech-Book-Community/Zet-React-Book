@@ -96,7 +96,7 @@
     </td>
     <td>Yo0</td>
     <td>Willy</td>
-    <td><a href="">Slide</a></td>
+    <td><a href="https://hackmd.io/@yG0XWIa8QgGITxdROQeX1w/vita-useEffect#/">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
   <tr>
