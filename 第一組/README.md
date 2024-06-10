@@ -106,7 +106,7 @@
     </td>
     <td>Lai</td>
     <td>Vita</td>
-    <td><a href="">Slide</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1SYxv-BzwdPzaQC3oON--x-SK2cUH-ezJVitPLDDyoro/edit?usp=sharing">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
   <tr>
