@@ -97,7 +97,7 @@
     <td>Yo0</td>
     <td>Willy</td>
     <td><a href="https://hackmd.io/@yG0XWIa8QgGITxdROQeX1w/vita-useEffect#/">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/37">Note</a></td>
   </tr>
   <tr>
     <td>2024/06/09</td>
