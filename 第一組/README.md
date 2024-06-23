@@ -117,7 +117,7 @@
     </td>
     <td>Willy</td>
     <td>Lai</td>
-    <td><a href="">Slide</a></td>
+    <td><a href="https://docs.google.com/presentation/d/16NZJthlK9NKQ1C2XjTXauZM8U20QGtvhiiUuTaCvRbY/edit#slide=id.g2e79cf95692_0_1">Slide</a></td>
     <td><a href="">Note</a></td>
   </tr>
   <tr>
