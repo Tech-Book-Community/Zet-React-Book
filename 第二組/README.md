@@ -118,7 +118,7 @@
     <td>PG</td>
     <td>Amelie</td>
     <td><a href="">Slide</a></td>
-    <td><a href="https://hackmd.io/-iHu5JubSY-pYw7fTsT7rA">Note</a></td>
+    <td><a href="https://hackmd.io/ICuktSGmS6SzY-3RDHY0TQ">Note</a></td>
   </tr>
   <tr>
     <td>2024/07/10</td>
