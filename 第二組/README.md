@@ -117,7 +117,7 @@
     </td>
     <td>PG</td>
     <td>Amelie</td>
-    <td><a href="">Slide</a></td>
+    <td><a href="https://www.canva.com/design/DAGILMO4lWQ/mwA-UVmEbxD65hpC-HBV-g/edit">Slide</a></td>
     <td><a href="https://hackmd.io/ICuktSGmS6SzY-3RDHY0TQ">Note</a></td>
   </tr>
   <tr>
