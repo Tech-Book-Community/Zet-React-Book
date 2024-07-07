@@ -86,7 +86,7 @@
     <td>Cosmos</td>
     <td>Lia</td>
     <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/35">Note</a></td>
   </tr>
   <tr>
     <td>2024/05/26</td>
@@ -96,8 +96,8 @@
     </td>
     <td>Ohtani</td>
     <td>Jan</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/@siouyu/HJ2R5qJNR">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/34">Note</a></td>
   </tr>
   <tr>
     <td>2024/06/09</td>
@@ -106,8 +106,8 @@
     </td>
     <td>Vera</td>
     <td>Isla</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/@8VJraqHuQlikeGpnJTvwMQ/Bk1U8q3NC">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/36">Note</a></td>
   </tr>
   <tr>
     <td>2024/06/23</td>
@@ -117,8 +117,8 @@
     </td>
     <td>Jan</td>
     <td>Cosmos</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/@jingcc/Sy5d8n4LC#/">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/40">Note</a></td>
   </tr>
   <tr>
     <td>2024/07/07</td>
