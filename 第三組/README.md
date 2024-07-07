@@ -128,7 +128,7 @@
     </td>
     <td>Isla</td>
     <td>Ohtani</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/@2xvCmtgMTB-Pd5BrM0V4ZQ/Sy60-vR8C#/">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/43">Note</a></td>
   </tr>
 </table>
