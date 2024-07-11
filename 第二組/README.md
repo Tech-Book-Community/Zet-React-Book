@@ -128,7 +128,7 @@
     </td>
     <td>Amelie</td>
     <td>Steward</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://www.canva.com/design/DAGJrMHpWh8/SgHcguXFjzF7IoNF5Z_wGw/view?utm_content=DAGJrMHpWh8&utm_campaign=designshare&utm_medium=link&utm_source=editor">Slide</a></td>
+    <td><a href="https://hackmd.io/@C9Ont_7fSWqTfAvEBgPSYQ/Sy9adWhvA">Note</a></td>
   </tr>
 </table>
