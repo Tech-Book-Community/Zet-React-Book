@@ -129,6 +129,6 @@
     <td>Vita</td>
     <td>Kai</td>
     <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/44">Note</a></td>
   </tr>
 </table>
