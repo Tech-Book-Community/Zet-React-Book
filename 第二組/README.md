@@ -129,6 +129,6 @@
     <td>Amelie</td>
     <td>Steward</td>
     <td><a href="https://www.canva.com/design/DAGJrMHpWh8/SgHcguXFjzF7IoNF5Z_wGw/view?utm_content=DAGJrMHpWh8&utm_campaign=designshare&utm_medium=link&utm_source=editor">Slide</a></td>
-    <td><a href="https://hackmd.io/BcRsZH2FSMans8qBnIJ6eg">Note</a></td>
+    <td><a href="https://hackmd.io/@murmurline/usememo">Note</a></td>
   </tr>
 </table>
