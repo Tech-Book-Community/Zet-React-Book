@@ -85,7 +85,7 @@
     </td>
     <td>Cosmos</td>
     <td>Lia</td>
-    <td><a href="">Slide</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1QvWlOkOfMu5XgBE2vmu0AhTDaOWh7MiY/edit#slide=id.p1">Slide</a></td>
     <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/35">Note</a></td>
   </tr>
   <tr>
