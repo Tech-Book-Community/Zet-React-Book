@@ -41,7 +41,7 @@
     <td>Judy</td>
     <td>Robert</td>
     <td><a href="https://gamma.app/docs/-25vpjd4aqjjo9r4?mode=present#card-pfx6e9xxc9q4k3v">Slide</a></td>
-    <td><a href="https://hackmd.io/vrnoZlCMSOKsod7XFi0FFQ">Note</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/19">Note</a></td>
   </tr>
   <tr>
     <td>2024/04/03</td>
@@ -51,8 +51,8 @@
     </td>
     <td>Monica</td>
     <td>1t</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://react-book-slide.vercel.app/1">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/21">Note</a></td>
   </tr>
   <tr>
     <td>2024/04/17</td>
@@ -63,7 +63,7 @@
     <td>Robert</td>
     <td>Cheryl</td>
     <td><a href="https://docs.google.com/presentation/d/1o7d0Ovj31_Si0QTHgICi54k27rJsxQysEo8dHtt31qE/edit#slide=id.p">Slide</a></td>
-    <td><a href="https://hackmd.io/dKKm7nElTP256bAUUPKDgA">Note</a></td>
+    <td><a href="https://hackmd.io/dKKm7nElTP256bAUUPKDgA">Note</a>, <a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/27">Discussion</a></td>
   </tr>
   <tr>
     <td>2024/05/01</td>
@@ -73,8 +73,8 @@
     </td>
     <td>1t</td>
     <td>Judy</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://drive.google.com/file/d/1_tN0dfkuybOQJHfBZlWeAPVmZdrrui04/view">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/30">Note</a></td>
   </tr>
   <tr>
     <td>2024/05/15</td>
@@ -86,7 +86,7 @@
     <td>LJBL</td>
     <td>Sam</td>
     <td><a href="https://hackmd.io/@VXN3PU0MQfqWfVau-uHOig/HJgo4gAz0#/">Slide</a></td>
-    <td><a href="https://hackmd.io/LHPV6R_OQTKnhRNqxOri-Q">Note</a></td>
+    <td><a href="https://hackmd.io/LHPV6R_OQTKnhRNqxOri-Q">Note</a>, <a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/33">Discussions</a></td>
   </tr>
   <tr>
     <td>2024/05/29</td>
@@ -96,8 +96,8 @@
     </td>
     <td>Cheryl</td>
     <td>Mi</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://hackmd.io/CULvyLJ5SiS9jqj6dGb7zQ?view#/">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/38">Note</a></td>
   </tr>
   <tr>
     <td>2024/06/12</td>
@@ -106,8 +106,8 @@
     </td>
     <td>Mi</td>
     <td>LJBL</td>
-    <td><a href="">Slide</a></td>
-    <td><a href="">Note</a></td>
+    <td><a href="https://www.canva.com/design/DAGH6xwgjTQ/Lc_gXopwYvblOgOy66j62w/edit">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/39">Note</a></td>
   </tr>
   <tr>
     <td>2024/06/26</td>
@@ -118,7 +118,7 @@
     <td>PG</td>
     <td>Amelie</td>
     <td><a href="https://www.canva.com/design/DAGILMO4lWQ/mwA-UVmEbxD65hpC-HBV-g/edit">Slide</a></td>
-    <td><a href="https://hackmd.io/ICuktSGmS6SzY-3RDHY0TQ">Note</a></td>
+    <td><a href="https://hackmd.io/ICuktSGmS6SzY-3RDHY0TQ">Note</a>, <a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/46">Discussion</a></td>
   </tr>
   <tr>
     <td>2024/07/10</td>
@@ -129,6 +129,6 @@
     <td>Amelie</td>
     <td>Steward</td>
     <td><a href="https://www.canva.com/design/DAGJrMHpWh8/SgHcguXFjzF7IoNF5Z_wGw/view?utm_content=DAGJrMHpWh8&utm_campaign=designshare&utm_medium=link&utm_source=editor">Slide</a></td>
-    <td><a href="https://hackmd.io/@murmurline/usememo">Note</a></td>
+    <td><a href="https://hackmd.io/@murmurline/usememo">Note</a>, <a href="https://github.com/Tech-Book-Community/Zet-React-Book/discussions/45">Discussion</a></td>
   </tr>
 </table>
